@@ -1,24 +1,3 @@
-========== HOME ==========
-.home__title
-Merry Christmas and <br> Happy New Year!
-
-.home__description
-Christmas and a new year is about to begin, 
-all good wishes and successes.
-
-========== GIVING ==========
-.section__title
-Start Giving This <br> Christmas
-
-.giving__title | .giving__description
-Surprise gifts
-They are the best gifts there is.
-
-Ornaments
-Give a moment to decorate.
-
-Lots of love
-Give away feelings that last forever.
 
 ========== CELEBRATE ==========	
 .section__title
