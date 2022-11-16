@@ -271,7 +271,19 @@ button {
 }
 
 /*=============== BUTTONS ===============*/
+.button {
+  display: inline-block;
+  background-color: var(--first-color);
+  color: #fff;
+  padding: 1.15rem 2.75rem;
+  font-weight: var(--font-medium);
+  border-radius: 3rem;
+  transition: .3s;
+}
 
+.button:hover {
+  background-color: var(--first-color);
+}
 
 /*=============== GIVING ===============*/
 
