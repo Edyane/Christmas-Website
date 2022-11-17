@@ -1,16 +1,3 @@
-
-========== CELEBRATE ==========	
-.section__title
-Celebrate With A <br> Lot Of Love
-
-.celebrate__description
-In this holidays, celebrate with much love and peace, offering many 
-blessings to our loved ones, friends and neighbors, wishing them 
-a good Christmas message.
-
-.button
-Send Good Wishes
-
 ========== GIFT ==========
 .section__title
 Share A Gift
