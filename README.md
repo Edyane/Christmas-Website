@@ -1,14 +1,34 @@
-# Responsive Christmas Website ⛄️
-## [Watch it on youtube](https://youtu.be/HrZSQpxfIxw)
-### Responsive Christmas Website ⛄️
+<div align="center">
 
-- Responsive Christmas Website Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+# Responsive Christmas Website <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="50" height="50" />
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+</div>
 
-![preview img](/preview.png)
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/887544607599120404/1043551459737862247/christmas.png" width="700">
+  <br /><br /><br /><br />
+</div>
+
+
+### :pencil: Descrição do Projeto
+<p align="justify">Praticando conceitos de HTML, CSS, JavaScript, Mobile First e Responsividade por meio dos ensinamentos do canal "Bedimcode".</p>
+
+
+### Tecnologias Utilizadas:
+<div>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+### :computer: Tutorial Bedimcode
+
+[Create a Responsive Christmas Website Design Using HTML CSS & JavaScript 🖱️](https://www.youtube.com/watch?v=HrZSQpxfIxw)
+
+
+### 📍 Status
+
+🚧  Finalizado  🚧
