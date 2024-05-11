@@ -6,8 +6,7 @@
 
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/887544607599120404/1043551459737862247/christmas.png" width="700">
-  <br /><br /><br /><br />
+  ![preview img](/preview.png)
 </div>
 
 
